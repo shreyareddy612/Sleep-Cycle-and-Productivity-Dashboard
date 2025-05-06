@@ -1,4 +1,4 @@
-# VA Dashboard
+# Sleep Cycle vs Productivity
 
 This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
 
